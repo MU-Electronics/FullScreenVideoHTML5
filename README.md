@@ -8,18 +8,20 @@ Repo contains a HTML5 web page that plays a video on loop with audio taking up t
 Follow the below to setup the site
 
 
-###Download the repo
+### Download the repo
 
-Using git 
+#### Method 1: Using git 
 ```bash
 git clone https://github.com/MU-Electronics/FullScreenVideoHTML5.git
 ```
-or download the ZIP file
+
+#### Method 2: Download ZIP
+If you don't have git or don't know how to use git just download the project via the [ZIP file](https://github.com/MU-Electronics/FullScreenVideoHTML5/archive/master.zip)
 
 
 ### Copy File
 
-Copy the video that you want to play into the media folder of the download website.
+Copy the video that you want to play into the media folder of the downloaded website.
 
 Please ensure your video is in one of the below formats
 
@@ -46,12 +48,12 @@ Open the index.html page in your local web browser
 
 To ensure the video fills the screen set the browser into full screen mode and move the mouse off the screen.
 
-In Chrome press F11 to ensure full screen mode and F11 again to exit full screen mode.
+In Chrome press F11 to enter full screen mode and F11 again to exit full screen mode.
 
 
 ## Problems 
 
 If you have any problems submit an [issue](https://github.com/MU-Electronics/FullScreenVideoHTML5/issues) 
-in github or if you are internal to The University of Manchester email sam.mottley@manchester.ac.uk or ring
-54741 and ask for Sam.
+on GitHub or if you are internal to The University of Manchester email sam.mottley@manchester.ac.uk or ring
+54641 and ask for Sam.
 
